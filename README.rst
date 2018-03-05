@@ -5,11 +5,11 @@ Python XMP tool
 .. image:: https://travis-ci.org/gaqzi/py-xmp-tool.png?branch=master
            :target: https://travis-ci.org/gaqzi/py-xmp-tool
 
-.. image:: https://pypip.in/version/xmp-tool/badge.png
+.. image:: https://img.shields.io/pypi/v/xmp-tool.svg
            :target: https://pypi.python.org/pypi/xmp-tool/
            :alt: Latest Version
 
-.. image:: https://pypip.in/download/xmp-tool/badge.png
+.. image:: https://img.shields.io/pypi/dm/xmp-tool.svg
            :target: https://pypi.python.org/pypi/xmp-tool/
            :alt: Downloads
 
